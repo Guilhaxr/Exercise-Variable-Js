@@ -17,11 +17,18 @@
   let abstract = "CA";
 
   let pplFollower = 109;
-  let peoplePfollowing = 1500;
+  let peopleFollowing = 1500;
 
 
-  var time = new Date();
-
+  var time = new Date ;
+  console.log(name);
+  console.log(name2);
+  console.log(sentence);
+  console.log(img1);
+  console.log(city);
+  console.log(abstract);
+  console.log(pplFollower);
+  console.log(peopleFollowing);
   /*
 
     🏁 David is following one more account, increment the total of following account
