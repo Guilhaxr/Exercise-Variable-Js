@@ -29,6 +29,8 @@
   console.log(abstract);
   console.log(pplFollower);
   console.log(peopleFollowing);
+
+  peopleFollowing++;
   /*
 
     🏁 David is following one more account, increment the total of following account
